@@ -13,3 +13,5 @@ public class EX2_variable {
    }	
 	// favoriteFood = "제육"; 에러 발생
 }
+
+//dsd 
